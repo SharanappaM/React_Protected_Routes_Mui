@@ -1,4 +1,9 @@
-# React + Vite
+# React_Protected_Routes_Mui
+
+
+## using Platzi Fake Store API
+  ### Note: https://fakeapi.platzi.com/en/rest/auth-jwt/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
